@@ -1,7 +1,7 @@
 Role Name
 =========
 
-A brief description of the role goes here.
+Setup LAMP on EC-2 and Install WordPress
 
 Requirements
 ------------
