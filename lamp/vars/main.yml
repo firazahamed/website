@@ -1,8 +1,0 @@
----
-mysql_root: ans@root#mysql
-DB_NAME: wp_db
-DB_USER:  wp_ans
-DB_PASSWORD: WP123!@#
-wp_url: https://wordpress.org/wordpress-4.5.8.tar.gz
-dest: /var/www/html/
-Apache_user: root
